@@ -1,0 +1,44 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Mark.sticker"
+    },
+    {
+      "filename" : "Kalub.sticker"
+    },
+    {
+      "filename" : "Swift.sticker"
+    },
+    {
+      "filename" : "GameAcademy.sticker"
+    },
+    {
+      "filename" : "Evan.sticker"
+    },
+    {
+      "filename" : "DevLogo.sticker"
+    },
+    {
+      "filename" : "Jacob.sticker"
+    },
+    {
+      "filename" : "MarkRap.sticker"
+    },
+    {
+      "filename" : "Jack.sticker"
+    },
+    {
+      "filename" : "Pearson.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
